@@ -1,5 +1,9 @@
 {
   "name": "demo",
-  "integrations": {},
-  "type": "angular"
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "386a96b7"
 }
